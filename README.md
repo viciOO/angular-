@@ -1,2 +1,2 @@
 # angular-
-angularjs使用$watchs实现下拉框联动
+angularjs使用$watch实现下拉框联动
